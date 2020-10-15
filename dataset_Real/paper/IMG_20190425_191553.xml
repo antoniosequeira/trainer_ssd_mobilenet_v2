@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paper</folder>
+	<filename>IMG_20190425_191553.jpg</filename>
+	<path>F:\Datasets Tese\Real\paper\IMG_20190425_191553.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>327</ymin>
+			<xmax>3218</xmax>
+			<ymax>1922</ymax>
+		</bndbox>
+	</object>
+</annotation>

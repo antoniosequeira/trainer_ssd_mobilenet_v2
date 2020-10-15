@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cardboard</folder>
+	<filename>IMG_20190727_171249.jpg</filename>
+	<path>F:\Datasets Tese\Real\cardboard\IMG_20190727_171249.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2610</width>
+		<height>4640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cardboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>1400</ymin>
+			<xmax>2490</xmax>
+			<ymax>3530</ymax>
+		</bndbox>
+	</object>
+</annotation>

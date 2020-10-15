@@ -1,0 +1,26 @@
+<annotation>
+	<folder>metal</folder>
+	<filename>IMG_20191201_131908.jpg</filename>
+	<path>F:\Datasets Tese\Real\metal\IMG_20191201_131908.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2610</width>
+		<height>4640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>670</xmin>
+			<ymin>870</ymin>
+			<xmax>2060</xmax>
+			<ymax>3330</ymax>
+		</bndbox>
+	</object>
+</annotation>

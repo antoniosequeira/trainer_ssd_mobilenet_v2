@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic</folder>
+	<filename>IMG_20190427_133544.jpg</filename>
+	<path>F:\Datasets Tese\Real\plastic\IMG_20190427_133544.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>699</xmin>
+			<ymin>422</ymin>
+			<xmax>2764</xmax>
+			<ymax>1504</ymax>
+		</bndbox>
+	</object>
+</annotation>
